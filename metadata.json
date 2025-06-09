@@ -1,0 +1,6 @@
+{
+  "name": "Copy of Visualizador Narrativo de Capítulos",
+  "description": "Una aplicación para analizar texto narrativo, extraer escenas y entidades clave, y generar visualizaciones para ellas usando IA Gemini. Los usuarios pueden ingresar texto de un capítulo, y la aplicación identificará personajes, entornos, escenas y otros elementos, generando imágenes para cada uno.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
